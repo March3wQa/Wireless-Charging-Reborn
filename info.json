@@ -1,0 +1,12 @@
+{
+    "name": "wireless-charging-reborn",
+    "version": "0.1.0",
+    "title": "Wireless Charging: Reborn",
+    "author": ".-PiteR-.",
+    "homepage": "https://forums.factorio.com/viewtopic.php?f=93&t=31910",
+    "description": "Induction stations and equipment allowing wireless charging of batteries in vehicles and armor. Remake of mknejp's Wireless Charging mod.",
+    "factorio_version": "0.16",
+    "dependencies": ["base >= 0.16.51", "wireless-charging-lib-reborn>=0.1.0"],
+    "license": "MIT"
+}
+  
